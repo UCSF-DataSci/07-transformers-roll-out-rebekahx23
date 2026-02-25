@@ -1,0 +1,28 @@
+[
+  {
+    "diagnosis": "generalized anxiety disorder",
+    "medications": [],
+    "lab_values": {},
+    "confidence": 0.85
+  },
+  {
+    "diagnosis": "anaphylaxis",
+    "medications": [],
+    "lab_values": {},
+    "confidence": 0.85
+  },
+  {
+    "diagnosis": "hypertrophic lichen planus",
+    "medications": [
+      "[REDACTED]"
+    ],
+    "lab_values": {},
+    "confidence": 0.95
+  },
+  {
+    "diagnosis": "Type II choledochal cyst/double GB/Type VI choledochal cyst",
+    "medications": [],
+    "lab_values": {},
+    "confidence": 0.85
+  }
+]
